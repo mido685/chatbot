@@ -1,0 +1,10 @@
+{
+  "label": "equipment_mapping",
+  "examples": {
+    "Chair": "EQ001",
+    "Table": "EQ002",
+    "Sofa": "EQ003",
+    "Air Conditioner": "EQ004",
+    "Printer": "EQ005"
+  }
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My JARVIS Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chatbox">
+        <div id="chat-log"></div>
+        <input type="text" id="user-input" placeholder="Ask something..." />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        async function sendMessage() {
+            const input = document.getElementById("user-input");
+            const msg = input.value;
+            if (!msg) return;
+
+            addMessage("You", msg);
+
+            const res = await fetch("/chat", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message: msg })
+            });
+
+            const data = await res.json();
+            addMessage("Bot", data.response);
+            input.value = "";
+        }
+
+        function addMessage(sender, msg) {
+            const log = document.getElementById("chat-log");
+            const msgElem = document.createElement("div");
+            msgElem.className = "message";
+            msgElem.innerHTML = `<b>${sender}:</b> ${msg}`;
+            log.appendChild(msgElem);
+            log.scrollTop = log.scrollHeight;
+        }
+    </script>
+</body>
+</html>

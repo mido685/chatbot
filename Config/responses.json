@@ -1,0 +1,71 @@
+{
+  "get_quantity": [
+    "Sure! There are {count} units of {equipment} in branch {branch}. ✅",
+    "Branch {branch} currently holds {count} of {equipment}. 📍",
+    "Let me check... 🔎 Yep, {equipment} in branch {branch} is stocked with {count}.",
+    "You'll find {count} {equipment} in branch {branch}. 📦",
+    "As of now, {equipment} count in branch {branch} is {count}. 📊",
+    "Branch {branch}? It's got {count} units of {equipment}. 📍",
+    "The current inventory in branch {branch} lists {count} {equipment}. 📈",
+    "You can find {count} units of {equipment} available at branch {branch}. ✔️",
+    "After checking, branch {branch} has {count} {equipment} ready. 🧾",
+    "{count} {equipment} are available right now in branch {branch}. 🏪",
+    "{equipment} stock in branch {branch} is currently {count}. 🗂️",
+    "Looks like branch {branch} holds exactly {count} {equipment}. ✅"
+  ],
+  "get_quantity_not_found": [
+    "Hmm, I couldn't find any data for that. 🤔",
+    "Sorry, no records matched your request. ❌",
+    "I looked it up, but there's no info on that combination. 🧐",
+    "Unfortunately, I wasn't able to locate any data for that. 😕",
+    "That doesn't seem to be in our system. Try again? 🔄",
+    "I'm afraid there's no information available for that request. 🚫",
+    "No match found in the equipment database for that query. 📉"
+  ],
+  "get_total_equipment_only": [
+    "📦 Across all branches, there are {count} units of {equipment}.",
+    "Total stock for {equipment} across the company is {count}. 📊",
+    "We currently have {count} {equipment} available in all branches. ✅",
+    "{equipment}? It's distributed with {count} units company-wide. 🌐",
+    "All branches combined hold {count} units of {equipment}. 🏢",
+    "You're looking at {count} {equipment} across the entire company. 📦",
+    "Company-wide records show {count} total {equipment}. 🗃️",
+    "{equipment} is stocked with {count} units across branches. 📍",
+    "The entire network has a total of {count} {equipment}. 🧾",
+    "Altogether, we have {count} {equipment} in all locations. 📍",
+    "Inventory says we're holding {count} {equipment} company-wide. 📊"
+  ],
+  "get_total_equipment_only_not_found": [
+    "I couldn't find any records for that equipment. ❌",
+    "That code doesn't appear in the database. 🤷",
+    "Sorry, there's no data for that one. 📭",
+    "No available information on that equipment type. 🕵️‍♂️",
+    "It seems we have no inventory records for that item. 😕",
+    "That equipment isn't showing up in our system. 📉",
+    "Unfortunately, I can't find any data on that equipment. 🚫"
+  ],
+  "greeting": [
+    "Hi there! 👋 How can I help you today?",
+    "Hello! 👨‍💻 Need assistance with equipment info?",
+    "Hey! 🙌 I'm here to help. What would you like to know?",
+    "Welcome back! 🔄 Ready to check some equipment?",
+    "Hi! 😊 Let’s find that equipment you’re looking for.",
+    "Good to see you! 👀 What branch or item are we checking?",
+    "Hey there! 📋 Need help tracking some inventory?",
+    "Hello again! 👋 Which equipment would you like to check today?",
+    "Hi! 💬 What can I find for you right now?",
+    "Greetings! 🤖 Let's look up some equipment."
+  ],
+  "farewell": [
+    "Goodbye! 👋 Let me know if you need anything else.",
+    "See you later! 👀 Stay productive. 💼",
+    "Take care! ✨ I'm always here if you need me.",
+    "Farewell! 🚀 Reach out anytime.",
+    "Catch you later! 🎯 Feel free to ask anything.",
+    "Bye for now! 🙋 Don’t hesitate to return.",
+    "Until next time! 👋 Keep up the great work. 💪",
+    "Signing off! 💻 Let me know if you need assistance again.",
+    "Goodbye! ✅ Always happy to help.",
+    "That’s it for now. Take care! 🌟"
+  ]
+}

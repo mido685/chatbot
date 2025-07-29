@@ -1,0 +1,33 @@
+Branch,Equipment Code,Equipment Name,Quantity
+Drive,EQ001,Chair,15
+Drive,EQ001,Chair,15
+Drive,EQ002,Table,8
+Drive,EQ003,Sofa,3
+Drive,EQ004,Air Conditioner,2
+Drive,EQ005,Printer,1
+Stroll,EQ001,Chair,12
+Stroll,EQ002,Table,10
+Stroll,EQ002,Table,10
+Stroll,EQ003,Sofa,4
+Stroll,EQ004,Air Conditioner,1
+Stroll,EQ005,Printer,2
+Arkan,EQ001,Chair,9
+Arkan,EQ002,Table,6
+Arkan,EQ003,Sofa,2
+Arkan,EQ004,Air Conditioner,2
+Arkan,EQ006,Whiteboard,3
+Walk,EQ001,Chair,18
+Walk,EQ002,Table,12
+Walk,EQ005,Printer,1
+Walk,EQ006,Whiteboard,4
+Walk,EQ007,TV Screen,2
+Golf,EQ001,Chair,7
+Golf,EQ003,Sofa,1
+Golf,EQ004,Air Conditioner,1
+Golf,EQ005,Printer,1
+Golf,EQ008,Computer,5
+Distric5,EQ001,Chair,20
+Distric5,EQ002,Table,9
+Distric5,EQ003,Sofa,5
+Distric5,EQ006,Whiteboard,2
+Distric5,EQ008,Computer,8

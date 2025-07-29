@@ -1,0 +1,16 @@
+2025-07-25 20:50:37,how many chairs in Arkan,ask_the_equipment_in_branch,0.85
+2025-07-25 20:52:45,how many chairs in Arkan,ask_the_equipment_in_branch,0.85
+2025-07-25 21:21:54,how many chairs in Arkan,ask_the_equipment_in_branch,0.85
+2025-07-25 21:43:30,how many golf in branch imababa,ask_equipment_total_only,0.75
+2025-07-25 21:44:35,cls,ask_equipment_total_only,0.88
+2025-07-25 22:18:31,how many chairs in rkan,ask_the_equipment_in_branch,0.85
+2025-07-25 22:45:21,how many chairs in rkan,ask_the_equipment_in_branch,0.85
+2025-07-25 23:05:04,thank you,farewell,0.88
+2025-07-26 00:02:14,what about branch Drive,ask_the_equipment_in_branch,0.82
+2025-07-26 00:07:27,what about branch golf,ask_the_equipment_in_branch,0.88
+2025-07-26 00:26:52,what about stroll,ask_the_equipment_in_branch,0.73
+2025-07-28 00:52:12,& C:/Users/AL_hamd/AppData/Local/Programs/Python/Python311/python.exe c:/Users/AL_hamd/OneDrive/Desktop/Chatbot/main.py,greeting,0.83
+2025-07-28 23:22:30,what about branch stroll,farewell,0.77
+2025-07-28 23:23:33,what about branch stroll,farewell,0.77
+2025-07-28 23:57:12,what about in branch stroll,farewell,0.65
+2025-07-28 23:57:45,what about branch golf,ask_the_equipment_in_branch,0.88
